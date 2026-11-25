@@ -1,0 +1,9 @@
+﻿escenario,conjunto,umbral_pct,localidades,localidades_aisladas,habitantes_aislados,habitantes_aislados_fuera_zona_inundable,habitantes_retraso_15min_o_mas,localidades_retraso_15min_o_mas,hospitales_usados,hospitales_edomex,hospitales_edomex_inundables,localidades_sin_ruta_red_completa
+Todos,Todas,50.0,4894,1521,11140170,2554256,1170157,1400,268,120,71,0
+Todos,"Rurales (< 2,500 hab.)",50.0,4215,1170,595991,368211,605136,1301,268,120,71,0
+Solo inundables,Todas,50.0,4894,1686,11423879,2813233,3360568,2646,169,71,71,0
+Solo inundables,"Rurales (< 2,500 hab.)",50.0,4215,1315,649389,419297,1214191,2417,169,71,71,0
+Solo secos,Todas,50.0,4894,1524,11142095,2556181,1795828,1675,99,49,0,0
+Solo secos,"Rurales (< 2,500 hab.)",50.0,4215,1173,597916,370136,729161,1547,99,49,0,0
+Solo segundo nivel,Todas,50.0,4894,1521,11140170,2554256,1170157,1400,203,106,63,0
+Solo segundo nivel,"Rurales (< 2,500 hab.)",50.0,4215,1170,595991,368211,605136,1301,203,106,63,0

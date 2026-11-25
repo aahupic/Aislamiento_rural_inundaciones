@@ -1,0 +1,381 @@
+﻿fid_rnc,nombre_vialidad,tipo_vial,codigo,municipio,CVE_MPIO,desvio_max_min,habitantes_afectados,localidades_afectadas,habitantes_aislados,localidades_aisladas,desvio_max_finito_min,pct_inund,longitud_m,velocidad_kmh,lon_medio,lat_medio
+321132,(Toluca - Cd. Altamirano) - Cerro del Campo - San Pedro Limón - Lim. Méx. / Gro.,Carretera,2,Tlatlaya,15105,29.5,9989,44,0,0,29.5,60.7,412.1,80.0,-100.313292,18.576027
+325062,Tenancingo - Zumpahuacan - San Gaspar - San Andrés Nicolás Bravo,Carretera,166,Zumpahuacán,15119,33.6,8316,16,0,0,33.6,100.0,55.0,80.0,-99.618661,18.91465
+35025,(Toluca - Taxco) - Joquicingo - Malinalco - Chalma,Carretera,181,Malinalco,15052,21.0,7001,9,0,0,21.0,63.2,274.6,80.0,-99.471076,18.914316
+327234,Adolfo López Mateos,Calle,N/A,Texcaltitlán,15097,33.3,6067,16,0,0,33.3,91.7,179.1,30.0,-99.94497,18.932598
+220988,Acambay - Temascalcingo - San José Ixtapa,Carretera,560,Temascalcingo,15085,16.0,5495,8,0,0,16.0,100.0,113.9,80.0,-100.053269,19.976961
+335936,Valle de Bravo - Santo Tomás de los Plátanos - Zuluapan - Lim. Méx. /Mich.,Carretera,3049,Valle de Bravo,15110,23.7,5080,7,0,0,23.7,98.1,768.3,80.0,-100.24584,19.17821
+174973,Villa Victoria - Carmona - El Oro,Carretera,373,Villa Victoria,15114,16.7,4842,4,0,0,16.7,100.0,87.4,80.0,-100.057001,19.460033
+326588,Toluca - Cd. Altamirano,Carretera,134,Temascaltepec,15086,25.4,4508,8,0,0,25.4,100.0,22.4,90.0,-100.028466,19.05255
+333734,Toluca - Cd. Altamirano,Carretera,134,Temascaltepec,15086,20.8,4409,7,0,0,20.8,68.0,360.2,90.0,-100.042912,19.048559
+324008,La Puerta - Sultepec - San Miguel Totolmaloya,Carretera,36,Sultepec,15080,31.8,4107,17,0,0,31.8,69.2,376.8,80.0,-99.939885,18.767638
+328242,Zuluapan - Zacazonapan - Luvianos - Cuadrilla de López,Carretera,50,Luvianos,15123,16.8,3085,14,0,0,16.8,100.0,107.6,80.0,-100.290845,18.966835
+151749,Acambay - Temascalcingo - San José Ixtapa,Carretera,560,Temascalcingo,15085,21.1,2739,3,0,0,21.1,60.0,146.1,80.0,-99.978945,19.965881
+2274,E.C. Alpuyeca - Grutas de Cacahuamilpa,Carretera,166,Fuera del Edomex,,15.1,2699,4,0,0,15.1,100.0,286.9,90.0,-99.408908,18.733658
+333730,Milán,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,100.0,70.2,30.0,-100.051193,19.045469
+333731,Milán,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,78.6,196.8,30.0,-100.052175,19.046229
+333729,Milán,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,100.0,25.8,30.0,-100.050832,19.045203
+333725,Milán,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,100.0,54.0,30.0,-100.050429,19.045001
+333728,Milán,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,100.0,8.3,30.0,-100.0507,19.045114
+333726,Federal Toluca - Temascaltepec,Calle,N/A,Temascaltepec,15086,18.1,2574,2,0,0,18.1,100.0,284.1,30.0,-100.047011,19.045215
+73367,Jorge Luis Borges,Calle,N/A,Tianguistenco,15101,aislamiento,2373,1,2373,1,,87.5,119.9,30.0,-99.488562,19.185123
+73376,Jorge Luis Borges,Calle,N/A,Tianguistenco,15101,aislamiento,2373,1,2373,1,,100.0,16.0,30.0,-99.488,19.185004
+325571,N/D,Carretera,N/D,Tenancingo,15088,aislamiento,2196,1,2196,1,,56.4,575.7,80.0,-99.540616,18.989074
+221866,N/D,Privada,N/A,Atlacomulco,15014,aislamiento,2072,1,2072,1,,100.0,72.7,10.0,-99.93087,19.869243
+141622,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,71.4,101.8,30.0,-99.763927,19.786772
+142124,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,100.0,94.2,30.0,-99.764578,19.7874
+141621,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,100.0,14.2,30.0,-99.763654,19.786316
+143332,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,100.0,177.3,30.0,-99.762534,19.78334
+142122,Francisco I. Madero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,100.0,64.7,30.0,-99.76499,19.78789
+142035,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,2051,2,2051,2,,100.0,259.5,30.0,-99.763299,19.785153
+142034,Vicente Guerrero,Calle,N/A,Atlacomulco,15014,aislamiento,1991,1,1991,1,,88.9,527.5,30.0,-99.762456,19.780239
+173299,N/D,Calle,N/A,Atlacomulco,15014,aislamiento,1899,1,1899,1,,100.0,136.8,30.0,-99.844361,19.77668
+596777,Villas de la Hacienda,Avenida,N/A,Zumpango,15120,aislamiento,1883,1,1883,1,,100.0,138.9,40.0,-99.09921,19.820907
+332200,Arbolada de las Fuentes,Boulevard,N/A,Calimaya,15018,aislamiento,1867,1,1867,1,,100.0,40.9,40.0,-99.596843,19.193387
+333679,N/D,Calle,N/A,Temascaltepec,15086,20.8,1835,5,0,0,20.8,61.5,382.1,30.0,-100.0542,19.049037
+310115,N/D,Privada,N/A,Lerma,15051,aislamiento,1790,1,1790,1,,100.0,159.8,10.0,-99.523948,19.30176
+640185,N/D,Camino,N/D,Chalco,15025,aislamiento,1755,1,1755,1,,100.0,70.7,20.0,-98.88016,19.276885
+344085,Mérida,Calle,N/A,Texcoco,15099,aislamiento,1725,1,1725,1,,100.0,195.3,30.0,-98.894151,19.499946
+344063,Omega,Calle,N/A,Texcoco,15099,aislamiento,1725,1,1725,1,,100.0,130.9,30.0,-98.894899,19.500779
+344059,Omega,Calle,N/A,Texcoco,15099,aislamiento,1725,1,1725,1,,100.0,228.9,30.0,-98.894529,19.502366
+512802,N/D,Camino,N/D,Chalco,15025,aislamiento,1670,1,1670,1,,100.0,191.6,30.0,-98.854823,19.291249
+393319,N/D,Camino,N/D,Texcoco,15099,aislamiento,1646,1,1646,1,,100.0,56.7,40.0,-98.904897,19.445906
+393248,N/D,Camino,N/D,Texcoco,15099,aislamiento,1646,1,1646,1,,100.0,97.0,40.0,-98.90508,19.445234
+518110,Hacienda San Rafael,Calle,N/A,Chalco,15025,aislamiento,1623,1,1623,1,,100.0,23.9,30.0,-98.840016,19.268908
+518095,Hacienda San José,Calle,N/A,Chalco,15025,aislamiento,1623,1,1623,1,,100.0,67.1,30.0,-98.840299,19.268733
+512666,Hacienda San Juan,Calle,N/A,Chalco,15025,aislamiento,1623,1,1623,1,,100.0,50.8,30.0,-98.840668,19.268885
+306970,N/D,Calle,N/A,Toluca,15106,aislamiento,1600,1,1600,1,,100.0,37.7,30.0,-99.566736,19.36718
+306976,N/A,Enlace,N/A,Toluca,15106,aislamiento,1600,1,1600,1,,100.0,31.4,20.0,-99.567094,19.367193
+334687,Valle de Bravo - Santo Tomás de los Plátanos - Zuluapan - Lim. Méx. /Mich.,Carretera,3049,Valle de Bravo,15110,21.0,1568,3,0,0,21.0,53.8,183.9,80.0,-100.141834,19.22723
+173107,N/D,Privada,N/A,Toluca,15106,aislamiento,1558,1,1558,1,,75.0,56.3,10.0,-99.678206,19.337114
+336241,N/D,Camino,N/D,Valle de Bravo,15110,aislamiento,1511,3,1511,3,,100.0,200.3,40.0,-100.098812,19.190417
+336236,N/D,Camino,N/D,Valle de Bravo,15110,aislamiento,1511,3,1511,3,,66.7,306.9,30.0,-100.097151,19.188826
+212458,N/D,Privada,N/A,Temascalcingo,15085,aislamiento,1486,1,1486,1,,100.0,55.9,10.0,-99.986674,19.96196
+333018,Zuluapan - Zacazonapan - Luvianos - Cuadrilla de López,Carretera,50,Luvianos,15123,28.7,1483,9,0,0,28.7,100.0,3.5,80.0,-100.300113,19.031229
+220873,N/D,Camino,N/D,Temascalcingo,15085,aislamiento,1413,1,1413,1,,80.0,143.1,30.0,-100.089282,20.006624
+326456,Toluca - Cd. Altamirano,Carretera,134,Temascaltepec,15086,16.1,1332,2,0,0,16.1,100.0,30.0,90.0,-99.910788,19.151727
+326457,Toluca - Cd. Altamirano,Carretera,134,Temascaltepec,15086,16.1,1332,2,0,0,16.1,100.0,39.1,90.0,-99.911115,19.15173
+220987,N/D,Camino,N/D,Temascalcingo,15085,aislamiento,1301,1,1301,1,,90.0,142.3,30.0,-100.053934,19.999392
+225078,N/D,Carretera,N/D,Jilotepec,15045,20.4,1298,1,0,0,20.4,65.9,649.3,40.0,-99.693045,20.101823
+135624,N/D,Camino,N/D,Villa Victoria,15114,aislamiento,1209,1,1209,1,,54.5,154.8,40.0,-100.047206,19.412618
+72567,N/D,Privada,N/A,Atizapán,15012,aislamiento,1192,1,1192,1,,100.0,74.0,10.0,-99.504383,19.186265
+325661,N/D,Carretera,N/D,Villa Guerrero,15113,aislamiento,1004,1,1004,1,,61.2,1263.6,80.0,-99.624523,18.868854
+357180,N/D,Calle,N/A,Zumpango,15120,aislamiento,973,1,973,1,,68.8,236.0,30.0,-99.038072,19.822146
+135579,N/D,Camino,N/D,Amanalco,15007,aislamiento,968,1,968,1,,100.0,82.3,40.0,-100.055627,19.296518
+332731,Zuluapan - Zacazonapan - Luvianos - Cuadrilla de López,Carretera,50,Luvianos,15123,27.5,968,7,0,0,27.5,75.5,783.0,80.0,-100.30158,19.033938
+355814,N/D,Carretera,N/D,Otumba,15065,19.2,966,2,0,0,19.2,56.1,607.1,60.0,-98.75256,19.683918
+250540,Osa Mayor,Calle,N/A,Huehuetoca,15035,aislamiento,965,1,965,1,,100.0,373.5,30.0,-99.211996,19.837439
+197154,Río Peña,Calle,N/A,Huehuetoca,15035,aislamiento,965,1,965,1,,100.0,359.6,30.0,-99.213474,19.832945
+178148,N/D,Camino,N/D,Temoaya,15087,aislamiento,915,1,915,1,,100.0,61.9,30.0,-99.5952,19.450741
+327978,Pino Suárez,Calle,N/A,Luvianos,15123,31.5,901,3,0,0,31.5,100.0,77.2,30.0,-100.299298,18.923083
+327979,Pino Suárez,Calle,N/A,Luvianos,15123,31.5,901,3,0,0,31.5,100.0,118.8,30.0,-100.298544,18.922565
+221812,N/D,Camino,N/D,Acambay de Ruíz Castañeda,15001,aislamiento,892,1,892,1,,100.0,61.7,30.0,-99.925027,19.969869
+285571,N/D,Camino,N/D,Naucalpan de Juárez,15057,aislamiento,891,1,891,1,,82.4,243.4,40.0,-99.364081,19.429996
+285572,N/D,Camino,N/D,Naucalpan de Juárez,15057,aislamiento,891,1,891,1,,85.4,608.4,40.0,-99.360955,19.431134
+326905,N/D,Calle,N/A,Texcaltitlán,15097,32.9,880,1,0,0,32.9,75.0,112.7,30.0,-99.935139,18.929333
+321926,N/D,Camino,N/D,Zacualpan,15117,31.8,872,3,0,0,31.8,64.3,417.2,30.0,-99.775778,18.705438
+327620,N/D,Camino,N/D,Luvianos,15123,88.5,868,24,0,0,88.5,80.0,69.9,30.0,-100.48837,18.87468
+592390,N/D,Camino,N/D,Tultepec,15108,aislamiento,832,1,832,1,,100.0,164.5,40.0,-99.118327,19.674567
+667135,San Juan,Calle,N/A,Ixtapaluca,15039,aislamiento,824,1,824,1,,95.5,315.7,30.0,-98.850321,19.381878
+462782,N/D,Camino,N/D,Valle de Chalco Solidaridad,15122,aislamiento,816,3,816,3,,100.0,1224.8,30.0,-98.962264,19.239285
+327483,El Salitre - Nanchititla,Carretera,46,Luvianos,15123,40.4,814,7,0,0,40.4,58.6,434.3,80.0,-100.449146,18.869934
+139315,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,811,1,811,1,,61.1,534.2,10.0,-100.103894,19.624826
+356495,N/D,Calle,N/A,Tecámac,15081,aislamiento,808,1,808,1,,100.0,506.8,30.0,-98.973353,19.734045
+54578,N/D,Camino,N/D,Chapultepec,15027,aislamiento,775,1,775,1,,100.0,20.2,10.0,-99.544679,19.213811
+357566,N/D,Camino,N/D,Tultitlán,15109,aislamiento,774,1,774,1,,100.0,438.1,40.0,-99.084699,19.686506
+357567,N/D,Camino,N/D,Tultitlán,15109,aislamiento,774,1,774,1,,100.0,26.0,40.0,-99.086805,19.687095
+667359,N/D,Calle,N/A,Ixtapaluca,15039,aislamiento,766,1,766,1,,100.0,170.9,30.0,-98.871702,19.312718
+667360,N/D,Calle,N/A,Ixtapaluca,15039,aislamiento,766,1,766,1,,100.0,178.7,30.0,-98.871117,19.311589
+263923,Huehuetoca - Apaxco,Calle,N/A,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,45.6,30.0,-99.207444,19.841457
+263924,Huehuetoca - Apaxco,Calle,N/A,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,101.9,30.0,-99.207668,19.842089
+263938,Huehuetoca - Apaxco,Calle,N/A,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,349.8,30.0,-99.208226,19.844056
+263928,Huehuetoca - Apaxco,Calle,N/A,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,68.4,30.0,-99.209245,19.845678
+263935,Huehuetoca - Apaxco,Calle,N/A,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,159.8,30.0,-99.209778,19.846577
+263927,Cuautitlán - Apaxco,Carretera,781,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,46.0,50.0,-99.210279,19.847377
+602399,Cuautitlán - Apaxco,Carretera,781,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,86.2,50.0,-99.211427,19.849438
+602402,Cuautitlán - Apaxco,Carretera,781,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,625.8,50.0,-99.21277,19.852362
+602392,Cuautitlán - Apaxco,Carretera,781,Huehuetoca,15035,21.7,707,1,0,0,21.7,100.0,192.1,50.0,-99.210845,19.848309
+220859,Acambay - Temascalcingo - San José Ixtapa,Carretera,560,Temascalcingo,15085,18.4,705,2,0,0,18.4,64.4,1301.1,80.0,-100.096567,20.011873
+158712,N/D,Camino,N/D,Ixtlahuaca,15042,aislamiento,680,2,680,2,,66.7,177.1,30.0,-99.731053,19.604381
+326361,Moctezuma,Calle,N/A,Luvianos,15123,26.0,675,2,0,0,26.0,100.0,99.7,30.0,-100.301911,18.925953
+327954,Moctezuma,Calle,N/A,Luvianos,15123,26.0,675,2,0,0,26.0,100.0,52.5,30.0,-100.301495,18.925395
+327959,Doctor Gustavo Baz,Calle,N/A,Luvianos,15123,26.0,675,2,0,0,26.0,80.0,60.0,30.0,-100.301534,18.924974
+327983,Pino Suárez,Calle,N/A,Luvianos,15123,26.0,675,2,0,0,26.0,90.0,135.0,30.0,-100.301188,18.924394
+93173,N/D,Camino,N/D,Xalatlaco,15043,aislamiento,636,1,636,1,,100.0,88.1,30.0,-99.435202,19.185529
+343570,N/D,Calle,N/A,Texcoco,15099,aislamiento,635,1,635,1,,100.0,97.5,30.0,-98.89663,19.455617
+472341,N/D,Calle,N/A,Texcoco,15099,aislamiento,635,1,635,1,,100.0,101.6,30.0,-98.896946,19.454769
+472340,N/D,Calle,N/A,Texcoco,15099,aislamiento,635,1,635,1,,100.0,94.5,30.0,-98.897263,19.453936
+472338,N/D,Calle,N/A,Texcoco,15099,aislamiento,635,1,635,1,,100.0,55.1,30.0,-98.897501,19.4533
+35205,N/D,Calle,N/A,Malinalco,15052,aislamiento,621,1,621,1,,100.0,200.9,30.0,-99.495454,18.970759
+375768,N/D,Carretera,N/D,Hueypoxtla,15036,19.2,576,1,0,0,19.2,100.0,426.8,60.0,-99.056257,19.935549
+596161,N/D,Camino,N/D,Melchor Ocampo,15053,aislamiento,573,1,573,1,,100.0,161.8,30.0,-99.135323,19.720887
+172787,N/D,Camino,N/D,Toluca,15106,aislamiento,564,1,564,1,,71.6,1412.6,30.0,-99.657502,19.437139
+233297,N/D,Camino,N/D,Aculco,15003,21.4,551,1,0,0,21.4,77.8,129.9,10.0,-99.76388,20.132725
+139434,N/D,Cerrada,N/A,San José del Rincón,15124,aislamiento,546,1,546,1,,60.0,144.6,10.0,-100.103117,19.687135
+142328,N/D,Calle,N/A,Timilpan,15102,aislamiento,545,1,545,1,,52.8,526.5,30.0,-99.736379,19.899721
+151745,N/D,Carretera,N/D,Acambay de Ruíz Castañeda,15001,aislamiento,541,1,541,1,,57.6,480.3,80.0,-99.937592,19.953961
+90651,N/D,Calle,N/A,Lerma,15051,aislamiento,538,1,538,1,,100.0,158.2,30.0,-99.457528,19.311785
+356266,N/D,Carretera,N/D,Tecámac,15081,17.5,531,1,0,0,17.5,75.9,421.5,40.0,-98.982622,19.709284
+326275,N/D,Camino,N/D,Luvianos,15123,75.1,523,20,0,0,75.1,59.3,396.0,30.0,-100.506671,18.877857
+327603,N/D,Camino,N/D,Luvianos,15123,74.2,521,19,0,0,74.2,86.7,211.7,30.0,-100.50931,18.878471
+322405,(La Puerta - Sultepec) - Vuelta del Agua - Zacualpan,Carretera,92,Zacualpan,15117,18.6,520,4,0,0,18.6,98.2,836.1,80.0,-99.749753,18.750118
+326988,N/D,Calle,N/A,Temascaltepec,15086,aislamiento,510,1,510,1,,100.0,91.4,30.0,-99.88036,19.169378
+217954,N/D,Camino,N/D,Ixtlahuaca,15042,aislamiento,509,1,509,1,,100.0,135.5,20.0,-99.713076,19.637121
+90252,N/D,Privada,N/A,Tianguistenco,15101,aislamiento,501,1,501,1,,100.0,23.4,10.0,-99.425218,19.146628
+328082,N/D,Camino,N/D,Luvianos,15123,aislamiento,496,1,496,1,,100.0,50.3,30.0,-100.306477,18.936285
+356233,N/D,Calle,N/A,Tecámac,15081,aislamiento,490,1,490,1,,100.0,525.0,30.0,-99.02122,19.688733
+196689,N/D,Calle,N/A,Teoloyucan,15091,aislamiento,485,1,485,1,,100.0,9.9,30.0,-99.180179,19.789654
+139435,N/D,Calle,N/A,San José del Rincón,15124,aislamiento,482,1,482,1,,54.5,645.5,30.0,-100.105794,19.6889
+90372,N/D,Camino,N/D,Xalatlaco,15043,aislamiento,469,1,469,1,,100.0,68.6,30.0,-99.431004,19.174385
+335490,N/D,Calle,N/A,Toluca,15106,aislamiento,467,1,467,1,,100.0,79.4,30.0,-99.657366,19.238031
+335508,N/D,Calle,N/A,Toluca,15106,aislamiento,467,1,467,1,,100.0,123.3,30.0,-99.657036,19.237334
+335488,N/D,Calle,N/A,Toluca,15106,aislamiento,467,1,467,1,,100.0,70.9,30.0,-99.657354,19.2367
+328442,N/D,Carretera,N/D,Coatepec Harinas,15021,aislamiento,464,2,464,2,,76.3,1139.5,80.0,-99.810066,18.924013
+138941,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,456,1,456,1,,58.3,169.5,30.0,-100.153071,19.489331
+178411,Amomolulco - Xonacatlán - Presa José Antonio Álzate,Carretera,224,Temoaya,15087,16.2,450,2,0,0,16.2,80.0,71.9,80.0,-99.635528,19.463285
+139634,N/D,Camino,N/D,Villa Victoria,15114,aislamiento,441,1,441,1,,100.0,123.2,30.0,-100.121523,19.467835
+322763,N/D,Camino,N/D,Tlatlaya,15105,20.2,429,3,0,0,20.2,100.0,26.0,30.0,-100.302373,18.554498
+83953,N/D,Camino,N/D,Lerma,15051,aislamiento,427,1,427,1,,100.0,13.0,30.0,-99.496407,19.267182
+324584,N/D,Calle,N/A,Tenancingo,15088,aislamiento,425,1,425,1,,56.9,868.8,30.0,-99.565914,18.952957
+347384,Independencia,Calle,N/A,Tezoyuca,15100,aislamiento,423,1,423,1,,100.0,327.2,30.0,-98.925067,19.592798
+285354,N/D,Camino,N/D,Lerma,15051,aislamiento,419,1,419,1,,60.0,146.3,30.0,-99.467484,19.342979
+179699,Tlalnepantla - Villa del Carbón,Carretera,699,Jilotepec,15045,16.4,418,1,0,0,16.4,77.8,129.8,70.0,-99.557553,19.881499
+179700,Tlalnepantla - Villa del Carbón,Carretera,699,Jilotepec,15045,16.4,418,1,0,0,16.4,53.5,636.3,70.0,-99.559698,19.884136
+334665,N/D,Camino,N/D,Donato Guerra,15032,aislamiento,411,1,411,1,,100.0,201.5,30.0,-100.17883,19.244803
+34853,N/D,Camino,N/D,Malinalco,15052,aislamiento,395,4,395,4,,51.5,488.1,10.0,-99.495382,18.915439
+182488,N/D,Camino,N/D,Otzolotepec,15067,aislamiento,386,1,386,1,,77.8,121.1,30.0,-99.55194,19.435042
+92002,N/D,Carretera,N/D,Lerma,15051,aislamiento,366,2,366,2,,100.0,765.7,60.0,-99.397439,19.318693
+182258,N/D,Camino,N/D,Nicolás Romero,15060,aislamiento,354,1,354,1,,84.9,791.3,30.0,-99.396594,19.587772
+182257,N/D,Camino,N/D,Nicolás Romero,15060,aislamiento,354,1,354,1,,57.1,91.0,30.0,-99.399566,19.587708
+92007,N/D,Camino,N/D,Lerma,15051,aislamiento,349,1,349,1,,100.0,13.6,30.0,-99.412282,19.322908
+92026,N/D,Carretera,N/D,Lerma,15051,aislamiento,349,1,349,1,,72.3,961.9,60.0,-99.405406,19.319192
+281685,N/D,Calle,N/A,Lerma,15051,aislamiento,349,1,349,1,,61.5,187.6,30.0,-99.409551,19.322069
+130248,N/D,Carretera,N/D,Villa de Allende,15111,aislamiento,346,1,346,1,,52.5,593.4,40.0,-100.172477,19.352401
+322406,(La Puerta - Sultepec) - Vuelta del Agua - Zacualpan,Carretera,92,Zacualpan,15117,17.4,342,3,0,0,17.4,55.8,765.1,80.0,-99.74331,18.753086
+179804,N/D,Camino,N/D,Chapa de Mota,15026,aislamiento,340,1,340,1,,55.6,126.8,10.0,-99.589446,19.858995
+25745,N/D,Carretera,N/D,Sultepec,15080,aislamiento,338,2,338,2,,71.4,99.6,80.0,-99.97827,18.636973
+322758,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,330,2,330,2,,74.5,703.1,30.0,-100.292438,18.549226
+596215,N/D,Camino,N/D,Cuautitlán,15024,aislamiento,323,1,323,1,,100.0,118.9,30.0,-99.136462,19.735914
+344130,N/D,Camino,N/D,Texcoco,15099,aislamiento,319,1,319,1,,100.0,81.2,30.0,-98.926947,19.518757
+512354,N/D,Camino,N/D,Chalco,15025,aislamiento,317,1,317,1,,100.0,93.1,30.0,-98.808067,19.262309
+512353,N/D,Camino,N/D,Chalco,15025,aislamiento,317,1,317,1,,75.0,110.5,30.0,-98.808083,19.263228
+217763,N/D,Camino,N/D,Jiquipilco,15047,aislamiento,317,1,317,1,,72.7,158.0,30.0,-99.647026,19.593548
+336406,N/D,Camino,N/D,Valle de Bravo,15110,aislamiento,313,2,313,2,,80.3,1063.5,40.0,-100.097803,19.179108
+234155,N/D,Camino,N/D,Polotitlán,15071,aislamiento,303,1,303,1,,80.6,459.2,30.0,-99.912456,20.273419
+233646,N/D,Carretera,N/D,Polotitlán,15071,aislamiento,303,1,303,1,,59.1,328.8,40.0,-99.914612,20.261655
+233645,N/D,Carretera,N/D,Polotitlán,15071,aislamiento,303,1,303,1,,58.3,345.7,40.0,-99.915442,20.258712
+233644,N/D,Carretera,N/D,Polotitlán,15071,aislamiento,303,1,303,1,,52.9,247.8,40.0,-99.916156,20.256117
+137996,N/D,Calle,N/A,Toluca,15106,aislamiento,298,1,298,1,,100.0,83.5,30.0,-99.680043,19.319028
+233352,N/D,Camino,N/D,Aculco,15003,aislamiento,297,1,297,1,,56.1,1227.2,30.0,-99.871381,20.083162
+646592,N/D,Camino,N/D,Cocotitlán,15022,aislamiento,295,1,295,1,,100.0,102.5,30.0,-98.875326,19.231587
+171162,N/D,Camino,N/D,Villa de Allende,15111,aislamiento,284,1,284,1,,100.0,78.0,30.0,-100.240673,19.299695
+158386,N/D,Camino,N/D,Jocotitlán,15048,aislamiento,272,1,272,1,,100.0,63.4,30.0,-99.841787,19.745328
+218286,N/D,Camino,N/D,Morelos,15056,aislamiento,269,1,269,1,,100.0,34.6,10.0,-99.676085,19.741015
+35019,N/D,Carretera,N/D,Malinalco,15052,aislamiento,266,1,266,1,,59.1,1306.6,80.0,-99.487973,18.903498
+334551,N/D,Camino,N/D,Santo Tomás,15078,30.6,266,2,0,0,30.6,51.2,631.0,30.0,-100.287099,19.175106
+172757,N/D,Calle,N/A,Zinacantepec,15118,aislamiento,264,1,264,1,,100.0,74.8,30.0,-99.732625,19.321181
+326437,N/D,Camino,N/D,Valle de Bravo,15110,aislamiento,259,1,259,1,,100.0,143.2,30.0,-100.014912,19.127823
+462953,N/D,Calle,N/A,Chalco,15025,aislamiento,259,1,259,1,,100.0,389.0,30.0,-98.916628,19.219417
+331962,Hacienda Torrecillas,Calle,N/A,Calimaya,15018,aislamiento,258,1,258,1,,90.0,143.1,30.0,-99.594972,19.179609
+331964,Hacienda Mayorazgo,Calle,N/A,Calimaya,15018,aislamiento,258,1,258,1,,100.0,32.2,30.0,-99.594293,19.179756
+181279,Tlalnepantla - Villa del Carbón,Carretera,699,Chapa de Mota,15026,20.2,257,1,0,0,20.2,66.7,37.6,70.0,-99.490295,19.76084
+181271,N/D,Carretera,N/D,Chapa de Mota,15026,20.2,257,1,0,0,20.2,51.5,987.8,70.0,-99.493336,19.757589
+220930,N/D,Camino,N/D,Temascalcingo,15085,aislamiento,243,1,243,1,,73.1,386.4,10.0,-100.028327,19.926314
+139343,N/D,Camino,N/D,San Felipe del Progreso,15074,aislamiento,241,1,241,1,,100.0,19.2,30.0,-100.042357,19.660407
+281016,N/D,Camino,N/D,Toluca,15106,aislamiento,241,1,241,1,,84.2,559.5,30.0,-99.554282,19.372074
+281032,N/D,Camino,N/D,Toluca,15106,aislamiento,241,1,241,1,,84.2,270.2,30.0,-99.556606,19.374811
+158318,N/D,Camino,N/D,Morelos,15056,aislamiento,240,1,240,1,,100.0,271.0,30.0,-99.743953,19.8223
+158319,N/D,Camino,N/D,Timilpan,15102,19.7,240,1,0,0,19.7,65.5,1301.0,30.0,-99.746429,19.82578
+342849,N/D,Camino,N/D,Texcoco,15099,aislamiento,239,1,239,1,,75.0,53.9,30.0,-98.869365,19.441388
+171900,5 de Mayo,Calle,N/A,Villa de Allende,15111,aislamiento,237,1,237,1,,100.0,80.3,30.0,-100.147345,19.374905
+171883,N/D,Calle,N/A,Villa de Allende,15111,aislamiento,237,1,237,1,,100.0,378.6,30.0,-100.145604,19.375966
+171896,5 de Mayo,Calle,N/A,Villa de Allende,15111,aislamiento,237,1,237,1,,100.0,58.3,30.0,-100.148003,19.374923
+171905,5 de Mayo,Calle,N/A,Villa de Allende,15111,aislamiento,237,1,237,1,,100.0,103.0,30.0,-100.148769,19.374971
+535662,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,55.0,30.0,-98.733463,19.083722
+535663,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,49.2,30.0,-98.732974,19.083644
+535664,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,101.0,30.0,-98.732271,19.083528
+535562,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,111.3,30.0,-98.734242,19.083845
+535560,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,113.0,30.0,-98.73633,19.084145
+535561,La Palma,Calle,N/A,Amecameca,15009,aislamiento,232,3,232,3,,100.0,110.1,30.0,-98.735282,19.083998
+158313,N/D,Camino,N/D,Atlacomulco,15014,aislamiento,231,1,231,1,,82.6,330.7,30.0,-99.76423,19.797973
+215176,N/D,Carretera,N/D,Acambay de Ruíz Castañeda,15001,26.4,228,1,0,0,26.4,100.0,137.7,30.0,-99.851861,19.892252
+326360,Revolución,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,60.0,74.7,30.0,-100.30162,18.922914
+327960,Revolución,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,59.1,30.0,-100.301233,18.923393
+327965,Revolución,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,62.6,30.0,-100.300866,18.923817
+326363,Carlos Hank González,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,62.6,30.0,-100.302563,18.920517
+326364,Carlos Hank González,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,134.3,30.0,-100.303254,18.919918
+326368,Cuauhtémoc,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,65.3,30.0,-100.304987,18.917484
+326369,Cuauhtémoc,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,100.0,9.8,30.0,-100.30468,18.917656
+326370,Cuauhtémoc,Calle,N/A,Luvianos,15123,aislamiento,226,1,226,1,,75.0,46.8,30.0,-100.304454,18.917794
+525010,N/D,Camino,N/D,Atlautla,15015,aislamiento,224,1,224,1,,68.0,367.0,30.0,-98.774617,19.051026
+218395,N/D,Carretera,N/D,Timilpan,15102,aislamiento,223,1,223,1,,100.0,102.5,60.0,-99.663625,19.880636
+161824,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,221,1,221,1,,94.7,280.0,30.0,-100.250665,19.698789
+327067,N/D,Camino,N/D,Temascaltepec,15086,aislamiento,220,1,220,1,,100.0,182.9,30.0,-99.936054,19.028541
+158569,N/D,Camino,N/D,Acambay de Ruíz Castañeda,15001,aislamiento,209,2,209,2,,63.6,981.7,30.0,-99.791823,19.8522
+329874,N/D,Calle,N/A,Valle de Bravo,15110,aislamiento,205,1,205,1,,54.2,348.2,30.0,-100.106925,19.144391
+177603,N/D,Camino,N/D,Jocotitlán,15048,aislamiento,204,1,204,1,,56.2,719.1,10.0,-99.724689,19.6513
+345782,N/D,Calle,N/A,Teotihuacán,15092,aislamiento,201,1,201,1,,73.2,838.9,30.0,-98.856629,19.674237
+84968,N/D,Camino,N/D,Joquicingo,15049,aislamiento,200,1,200,1,,100.0,41.6,20.0,-99.530693,19.052255
+245799,N/D,Camino,N/D,Tultitlán,15109,aislamiento,197,1,197,1,,100.0,118.0,30.0,-99.12895,19.646562
+595220,Paraíso,Calle,N/A,Nextlalpan,15059,aislamiento,195,1,195,1,,100.0,86.8,30.0,-99.07916,19.73096
+327411,N/D,Camino,N/D,Tejupilco,15082,aislamiento,194,1,194,1,,100.0,116.4,30.0,-100.107309,18.861077
+145818,N/D,Camino,N/D,Atlacomulco,15014,aislamiento,183,1,183,1,,62.5,115.3,30.0,-99.874275,19.854297
+535667,División,Calle,N/A,Amecameca,15009,aislamiento,181,1,181,1,,57.1,104.2,30.0,-98.731808,19.082979
+535668,División,Calle,N/A,Amecameca,15009,aislamiento,181,1,181,1,,62.5,113.8,30.0,-98.731807,19.081994
+336622,N/D,Camino,N/D,Amanalco,15007,aislamiento,177,1,177,1,,77.4,459.6,30.0,-99.938282,19.2624
+326319,N/D,Camino,N/D,Luvianos,15123,33.5,176,2,0,0,33.5,61.5,191.3,30.0,-100.579985,18.860083
+535206,N/D,Carretera,N/D,Tepetlixpa,15094,aislamiento,174,1,174,1,,54.5,817.9,40.0,-98.837495,18.958362
+333163,Emiliano Zapata,Calle,N/A,Zacazonapan,15116,16.4,174,1,0,0,16.4,100.0,175.4,30.0,-100.260076,19.081419
+333164,Emiliano Zapata,Calle,N/A,Zacazonapan,15116,16.4,174,1,0,0,16.4,100.0,84.8,30.0,-100.259126,19.080669
+333170,Emiliano Zapata,Calle,N/A,Zacazonapan,15116,16.4,174,1,0,0,16.4,100.0,115.9,30.0,-100.255646,19.077151
+333166,Emiliano Zapata,Calle,N/A,Zacazonapan,15116,16.4,174,1,0,0,16.4,71.4,102.3,30.0,-100.258436,19.080149
+333032,Emiliano Zapata,Calle,N/A,Zacazonapan,15116,16.4,174,1,0,0,16.4,53.8,192.0,30.0,-100.256551,19.078235
+327355,Toluca - Cd. Altamirano,Carretera,134,Tejupilco,15082,21.4,170,2,0,0,21.4,100.0,57.8,90.0,-100.237739,18.847544
+327379,Toluca - Cd. Altamirano,Carretera,134,Tejupilco,15082,21.4,170,2,0,0,21.4,100.0,12.4,90.0,-100.237704,18.84786
+327378,Toluca - Cd. Altamirano,Carretera,134,Tejupilco,15082,21.4,170,2,0,0,21.4,100.0,48.7,90.0,-100.23767,18.848134
+594868,N/D,Calle,N/A,Nextlalpan,15059,aislamiento,165,1,165,1,,100.0,22.5,30.0,-99.094472,19.735987
+330255,N/D,Camino,N/D,Tejupilco,15082,aislamiento,164,1,164,1,,85.7,96.3,30.0,-100.146571,18.906668
+158560,N/D,Calle,N/A,Timilpan,15102,aislamiento,155,1,155,1,,73.3,215.8,30.0,-99.774672,19.83007
+325629,N/D,Camino,N/D,Tonatico,15107,aislamiento,153,1,153,1,,100.0,54.0,30.0,-99.627919,18.799034
+90752,N/D,Camino,N/D,Tenango del Valle,15090,aislamiento,153,1,153,1,,100.0,151.2,30.0,-99.56946,19.03289
+216432,N/D,Camino,N/D,Soyaniquilpan de Juárez,15079,aislamiento,150,1,150,1,,100.0,352.3,10.0,-99.524104,20.073622
+327414,N/D,Camino,N/D,Tejupilco,15082,aislamiento,149,1,149,1,,66.7,1162.9,30.0,-100.142998,18.846091
+595102,N/D,Camino,N/D,Zumpango,15120,aislamiento,148,1,148,1,,100.0,533.6,30.0,-99.078316,19.756051
+324826,N/D,Calle,N/A,Zumpahuacán,15119,aislamiento,148,1,148,1,,95.2,314.5,30.0,-99.593864,18.841782
+161503,San Felipe - Angangueo - Las Papas - Tlalpujahua,Carretera,23,San José del Rincón,15124,15.5,144,1,0,0,15.5,60.9,343.8,70.0,-100.256987,19.666019
+161531,N/D,Camino,N/D,San José del Rincón,15124,15.5,144,1,0,0,15.5,62.5,354.1,30.0,-100.259529,19.666847
+139129,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,140,1,140,1,,100.0,161.4,30.0,-100.045819,19.566109
+139131,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,140,1,140,1,,77.8,122.7,30.0,-100.047042,19.56662
+522512,N/D,Camino,N/D,Amecameca,15009,aislamiento,133,4,133,4,,54.8,456.9,10.0,-98.79267,19.080728
+320565,N/D,Camino,N/D,Tlatlaya,15105,44.3,133,1,0,0,44.3,100.0,36.4,40.0,-100.43048,18.576309
+342863,N/D,Calle,N/A,Texcoco,15099,aislamiento,127,1,127,1,,100.0,113.8,30.0,-98.867892,19.475349
+666946,Al Panteón,Calle,N/A,Ixtapaluca,15039,aislamiento,121,1,121,1,,100.0,33.7,30.0,-98.864386,19.345659
+592154,N/D,Camino,N/D,Melchor Ocampo,15053,aislamiento,118,1,118,1,,100.0,289.1,30.0,-99.155232,19.700275
+218349,N/D,Camino,N/D,Morelos,15056,aislamiento,117,1,117,1,,100.0,53.4,30.0,-99.631979,19.752798
+321941,N/D,Camino,N/D,Zacualpan,15117,aislamiento,116,1,116,1,,78.6,210.0,30.0,-99.791935,18.719458
+535568,N/D,Camino,N/D,Amecameca,15009,aislamiento,115,1,115,1,,100.0,215.9,30.0,-98.737189,19.079249
+354780,N/D,Calle,N/A,San Martín de las Pirámides,15075,aislamiento,115,1,115,1,,100.0,39.5,30.0,-98.77466,19.739487
+158772,N/D,Calle,N/A,Ixtlahuaca,15042,aislamiento,114,1,114,1,,66.7,392.8,30.0,-99.903253,19.575776
+169229,N/D,Camino,N/D,Villa de Allende,15111,aislamiento,114,1,114,1,,54.9,2715.2,30.0,-100.162127,19.472659
+596198,N/D,Camino,N/D,Cuautitlán,15024,aislamiento,113,1,113,1,,100.0,42.4,30.0,-99.129611,19.731965
+217779,N/D,Camino,N/D,Jiquipilco,15047,aislamiento,109,1,109,1,,66.7,127.8,30.0,-99.63122,19.600658
+215575,N/D,Camino,N/D,Acambay de Ruíz Castañeda,15001,aislamiento,109,1,109,1,,100.0,176.0,10.0,-99.870254,19.936606
+334599,N/D,Camino,N/D,Santo Tomás,15078,aislamiento,108,1,108,1,,58.3,168.1,30.0,-100.219273,19.166163
+334600,N/D,Camino,N/D,Santo Tomás,15078,aislamiento,108,1,108,1,,100.0,112.9,30.0,-100.217942,19.166139
+234132,N/D,Camino,N/D,Polotitlán,15071,aislamiento,107,1,107,1,,100.0,66.9,30.0,-99.857944,20.265439
+325967,N/D,Camino,N/D,Amatepec,15008,aislamiento,102,1,102,1,,100.0,131.1,30.0,-100.430225,18.704811
+130242,N/D,Camino,N/D,Villa de Allende,15111,aislamiento,102,1,102,1,,61.9,305.1,30.0,-100.196116,19.358278
+130251,N/D,Camino,N/D,Villa de Allende,15111,aislamiento,102,1,102,1,,100.0,97.2,10.0,-100.197222,19.359755
+130241,N/D,Camino,N/D,Villa de Allende,15111,aislamiento,102,1,102,1,,77.8,400.4,10.0,-100.196947,19.361781
+595624,N/D,Camino,N/D,Nextlalpan,15059,aislamiento,100,1,100,1,,100.0,109.4,20.0,-99.124189,19.764287
+211929,Peras,Calle,N/A,Temascalcingo,15085,aislamiento,99,1,99,1,,75.0,51.4,30.0,-99.998352,19.935557
+317927,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,94,1,94,1,,100.0,37.3,30.0,-100.18586,18.467931
+328181,N/D,Camino,N/D,Luvianos,15123,59.3,94,9,0,0,59.3,61.5,580.2,30.0,-100.421095,18.970115
+327360,N/D,Camino,N/D,Tejupilco,15082,aislamiento,92,1,92,1,,68.8,228.1,30.0,-100.233534,18.892158
+343800,N/D,Camino,N/D,Texcoco,15099,aislamiento,90,1,90,1,,100.0,208.5,30.0,-98.901264,19.487845
+218194,N/D,Camino,N/D,Morelos,15056,aislamiento,90,1,90,1,,51.7,424.5,30.0,-99.673602,19.729097
+669271,N/D,Camino,N/D,Nezahualcóyotl,15058,aislamiento,85,1,85,1,,100.0,241.6,30.0,-98.990322,19.41527
+2718,N/D,Calle,N/A,Ixtapan de la Sal,15040,aislamiento,81,1,81,1,,70.6,244.5,30.0,-99.66497,18.821835
+547916,N/D,Camino,N/D,Tepetlixpa,15094,aislamiento,80,1,80,1,,100.0,176.6,30.0,-98.853387,18.988472
+634003,N/D,Camino,N/D,Tepetlixpa,15094,aislamiento,80,1,80,1,,100.0,115.0,30.0,-98.853749,18.988434
+360434,N/D,Camino,N/D,Temascalapa,15084,aislamiento,80,1,80,1,,81.2,238.0,30.0,-98.917986,19.831329
+90198,N/D,Camino,N/D,Xalatlaco,15043,aislamiento,80,1,80,1,,80.0,69.9,30.0,-99.389129,19.159781
+32758,Dolores,Calle,N/A,Tonatico,15107,aislamiento,77,1,77,1,,100.0,15.1,30.0,-99.669469,18.796314
+334545,N/D,Camino,N/D,Santo Tomás,15078,aislamiento,75,1,75,1,,97.3,551.5,30.0,-100.294523,19.177711
+334547,N/D,Camino,N/D,Santo Tomás,15078,27.2,75,1,0,0,27.2,64.9,853.0,30.0,-100.288451,19.177424
+344676,N/D,Camino,N/D,Tepetlaoxtoc,15093,aislamiento,73,1,73,1,,100.0,60.2,30.0,-98.807684,19.586571
+323513,N/D,Camino,N/D,Amatepec,15008,aislamiento,73,1,73,1,,57.1,204.8,20.0,-100.257827,18.717505
+344661,N/D,Calle,N/A,Tepetlaoxtoc,15093,aislamiento,73,1,73,1,,83.3,167.7,30.0,-98.812367,19.581397
+666267,N/D,Camino,N/D,Chicoloapan,15029,aislamiento,72,1,72,1,,100.0,34.0,30.0,-98.868675,19.398472
+322930,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,65,1,65,1,,54.5,488.8,30.0,-100.300869,18.588997
+145091,N/D,Camino,N/D,San Felipe del Progreso,15074,aislamiento,62,1,62,1,,62.9,927.7,40.0,-99.907719,19.721881
+145880,N/D,Carretera,N/D,Temascalcingo,15085,aislamiento,60,1,60,1,,100.0,33.6,40.0,-100.085794,19.844867
+93346,N/D,Camino,N/D,Ocoyoacac,15062,aislamiento,57,1,57,1,,100.0,75.8,30.0,-99.447167,19.276675
+512122,N/D,Camino,N/D,Cocotitlán,15022,aislamiento,56,1,56,1,,100.0,91.2,30.0,-98.872755,19.248126
+326336,N/D,Camino,N/D,Luvianos,15123,aislamiento,56,1,56,1,,100.0,112.6,30.0,-100.576095,18.876388
+325898,N/D,Camino,N/D,Amatepec,15008,aislamiento,54,1,54,1,,100.0,40.2,30.0,-100.314326,18.68803
+592148,N/D,Camino,N/D,Cuautitlán,15024,aislamiento,52,1,52,1,,100.0,48.3,30.0,-99.160552,19.695922
+646473,N/D,Camino,N/D,Tenango del Aire,15089,aislamiento,52,1,52,1,,80.0,71.5,30.0,-98.866099,19.156176
+354512,N/D,Camino,N/D,Axapusco,15016,aislamiento,52,1,52,1,,100.0,92.6,30.0,-98.766651,19.728816
+161592,N/D,Camino,N/D,San José del Rincón,15124,aislamiento,51,1,51,1,,76.9,181.6,30.0,-100.192331,19.677037
+334537,Callejón Magnolia,Calle,N/A,Ixtapan del Oro,15041,aislamiento,50,1,50,1,,100.0,28.4,30.0,-100.26412,19.262274
+317510,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,49,1,49,1,,100.0,164.2,30.0,-100.250028,18.490638
+321117,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,46,1,46,1,,60.0,220.9,30.0,-100.342601,18.600182
+643342,Juan Flores y Casas,Calle,N/A,Juchitepec,15050,aislamiento,45,1,45,1,,100.0,156.3,30.0,-98.8851,19.101936
+643366,Juan Flores y Casas,Calle,N/A,Juchitepec,15050,aislamiento,45,1,45,1,,100.0,77.6,30.0,-98.886193,19.10213
+643340,Juan Flores y Casas,Calle,N/A,Juchitepec,15050,aislamiento,45,1,45,1,,100.0,139.3,30.0,-98.887218,19.102224
+595800,N/D,Camino,N/D,Nextlalpan,15059,aislamiento,44,1,44,1,,100.0,590.1,30.0,-99.04996,19.70204
+646487,N/D,Camino,N/D,Tenango del Aire,15089,aislamiento,43,1,43,1,,60.0,149.6,30.0,-98.852529,19.163641
+631037,N/D,Camino,N/D,Chalco,15025,aislamiento,41,1,41,1,,55.6,263.5,10.0,-98.948762,19.206388
+307816,N/D,Camino,N/D,Toluca,15106,aislamiento,37,1,37,1,,54.1,2211.1,20.0,-99.645916,19.45573
+594856,N/D,Camino,N/D,Nextlalpan,15059,aislamiento,37,2,37,2,,100.0,63.2,10.0,-99.121113,19.732645
+350493,N/D,Camino,N/D,Acolman,15002,aislamiento,37,1,37,1,,100.0,126.1,30.0,-98.902253,19.635639
+265835,N/D,Camino,N/D,Nextlalpan,15059,aislamiento,37,1,37,1,,100.0,303.5,10.0,-99.101222,19.760886
+354516,N/D,Camino,N/D,Axapusco,15016,aislamiento,36,1,36,1,,81.5,391.2,30.0,-98.688032,19.725543
+328136,N/D,Camino,N/D,Luvianos,15123,aislamiento,33,1,33,1,,69.6,342.4,30.0,-100.542719,18.962765
+233288,N/D,Camino,N/D,Aculco,15003,aislamiento,32,1,32,1,,71.1,674.5,30.0,-99.721853,20.112369
+347527,N/D,Camino,N/D,Atenco,15011,aislamiento,31,1,31,1,,100.0,43.3,30.0,-98.915545,19.575095
+359981,N/D,Camino,N/D,Temascalapa,15084,aislamiento,29,1,29,1,,100.0,115.8,30.0,-98.91202,19.842379
+322440,N/D,Carretera,N/D,Zacualpan,15117,28.6,26,1,0,0,28.6,88.2,240.2,40.0,-99.737886,18.741019
+405591,N/D,Camino,N/D,Nezahualcóyotl,15058,aislamiento,23,1,23,1,,100.0,302.2,30.0,-99.006529,19.41934
+596172,N/D,Camino,N/D,Melchor Ocampo,15053,aislamiento,23,1,23,1,,100.0,17.9,30.0,-99.138864,19.723519
+280694,N/D,Camino,N/D,Lerma,15051,aislamiento,22,1,22,1,,100.0,41.5,30.0,-99.525771,19.330898
+279549,N/D,Camino,N/D,Lerma,15051,aislamiento,22,1,22,1,,100.0,3221.1,30.0,-99.515985,19.33485
+280683,N/D,Camino,N/D,Lerma,15051,aislamiento,22,1,22,1,,91.7,528.3,30.0,-99.527995,19.329453
+88390,N/D,Camino,N/D,Xalatlaco,15043,aislamiento,21,2,21,2,,81.3,1121.8,30.0,-99.283939,19.136137
+326286,N/D,Camino,N/D,Luvianos,15123,aislamiento,19,1,19,1,,81.8,151.7,30.0,-100.488567,18.874171
+327644,N/D,Camino,N/D,Luvianos,15123,aislamiento,19,1,19,1,,100.0,30.7,30.0,-100.369143,18.876759
+522752,N/D,Camino,N/D,Amecameca,15009,aislamiento,18,1,18,1,,100.0,13.7,30.0,-98.783508,19.118683
+84928,N/D,Camino,N/D,Joquicingo,15049,aislamiento,18,1,18,1,,100.0,69.9,10.0,-99.533699,19.05661
+521596,N/D,Camino,N/D,Atlautla,15015,aislamiento,17,1,17,1,,100.0,114.7,30.0,-98.786774,18.994576
+348440,N/D,Camino,N/D,Tepetlaoxtoc,15093,aislamiento,16,1,16,1,,94.4,263.4,30.0,-98.818492,19.593118
+512140,N/D,Camino,N/D,Cocotitlán,15022,aislamiento,15,1,15,1,,100.0,18.2,30.0,-98.867033,19.221137
+343785,N/D,Camino,N/D,Texcoco,15099,aislamiento,15,1,15,1,,100.0,14.8,30.0,-98.905292,19.481295
+522634,Camino a San Miguel,Calle,N/A,Ayapango,15017,aislamiento,14,1,14,1,,100.0,395.4,30.0,-98.806638,19.130745
+522635,N/D,Camino,N/D,Ayapango,15017,aislamiento,14,1,14,1,,55.6,526.1,30.0,-98.808711,19.134059
+35121,N/D,Camino,N/D,Malinalco,15052,aislamiento,14,1,14,1,,77.8,120.7,30.0,-99.488231,18.938587
+466402,N/D,Camino,N/D,Chalco,15025,aislamiento,14,1,14,1,,100.0,116.4,30.0,-98.924616,19.247812
+548086,N/D,Calle,N/A,Juchitepec,15050,29.0,14,1,0,0,29.0,100.0,125.2,30.0,-98.846743,19.081365
+646166,N/D,Camino,N/D,Juchitepec,15050,aislamiento,13,1,13,1,,66.1,881.1,30.0,-98.872369,19.088326
+356891,N/D,Camino,N/D,Tecámac,15081,aislamiento,13,1,13,1,,100.0,115.3,30.0,-99.014229,19.77534
+180888,N/D,Camino,N/D,Villa del Carbón,15112,aislamiento,12,1,12,1,,80.0,137.3,40.0,-99.436115,19.709348
+515528,N/D,Camino,N/D,Chalco,15025,aislamiento,11,1,11,1,,100.0,171.0,30.0,-98.879832,19.286954
+462527,N/D,Camino,N/D,Valle de Chalco Solidaridad,15122,aislamiento,11,1,11,1,,100.0,336.6,30.0,-98.972071,19.269252
+519060,N/D,Camino,N/D,Ixtapaluca,15039,aislamiento,11,1,11,1,,100.0,106.6,30.0,-98.823139,19.377854
+519061,N/D,Camino,N/D,Ixtapaluca,15039,aislamiento,11,1,11,1,,100.0,44.6,30.0,-98.823624,19.378166
+327746,N/D,Camino,N/D,Luvianos,15123,aislamiento,11,1,11,1,,100.0,1.1,30.0,-100.409836,18.896344
+327747,N/D,Camino,N/D,Luvianos,15123,aislamiento,11,1,11,1,,100.0,79.3,30.0,-100.409619,18.896535
+590621,N/D,Calle,N/A,Tultepec,15108,aislamiento,11,1,11,1,,100.0,194.2,30.0,-99.146229,19.668316
+333321,N/D,Camino,N/D,Otzoloapan,15066,aislamiento,11,1,11,1,,66.7,266.9,30.0,-100.299025,19.097007
+522699,N/D,Camino,N/D,Ayapango,15017,aislamiento,10,1,10,1,,100.0,49.0,30.0,-98.822397,19.122476
+357056,N/D,Camino,N/D,Zumpango,15120,aislamiento,10,1,10,1,,100.0,421.5,30.0,-99.056778,19.812148
+356272,N/D,Camino,N/D,Tecámac,15081,aislamiento,9,1,9,1,,100.0,30.0,30.0,-99.006781,19.709287
+355941,N/D,Camino,N/D,Tonanitla,15125,aislamiento,9,1,9,1,,100.0,113.9,30.0,-99.058892,19.664571
+327716,N/D,Camino,N/D,Luvianos,15123,aislamiento,8,1,8,1,,61.1,1344.9,30.0,-100.443685,18.913623
+250751,N/D,Camino,N/D,Huehuetoca,15035,aislamiento,8,1,8,1,,100.0,85.3,30.0,-99.19469,19.847683
+595016,N/D,Camino,N/D,Zumpango,15120,aislamiento,7,1,7,1,,100.0,240.3,30.0,-99.092377,19.777631
+280999,N/D,Privada,N/A,Toluca,15106,aislamiento,7,1,7,1,,66.7,38.8,10.0,-99.580097,19.381342
+595614,N/D,Camino,N/D,Cuautitlán,15024,aislamiento,6,1,6,1,,100.0,1202.5,10.0,-99.126654,19.739179
+522988,N/D,Camino,N/D,Ayapango,15017,aislamiento,6,1,6,1,,52.9,243.0,30.0,-98.781102,19.129953
+595638,N/D,Camino,N/D,Melchor Ocampo,15053,aislamiento,5,1,5,1,,100.0,454.0,30.0,-99.150315,19.716251
+329854,N/D,Camino,N/D,Valle de Bravo,15110,aislamiento,5,1,5,1,,52.6,843.1,30.0,-100.107662,19.140256
+158338,N/D,Camino,N/D,Atlacomulco,15014,aislamiento,5,1,5,1,,76.3,1380.8,30.0,-99.852093,19.827647
+249921,N/D,Camino,N/D,Tepotzotlán,15095,aislamiento,5,1,5,1,,66.7,169.1,30.0,-99.216135,19.727337
+557645,N/D,Camino,N/D,Tepetlixpa,15094,aislamiento,4,1,4,1,,100.0,45.3,30.0,-98.820601,19.004755
+190397,N/D,Camino,N/D,Zumpango,15120,aislamiento,4,1,4,1,,100.0,255.0,30.0,-99.108151,19.826044
+589810,N/D,Camino,N/D,Tultepec,15108,aislamiento,4,1,4,1,,100.0,83.9,30.0,-99.13685,19.67361
+514687,N/D,Camino,N/D,Tenango del Aire,15089,aislamiento,4,1,4,1,,53.3,211.0,30.0,-98.848254,19.145833
+548013,N/D,Camino,N/D,Ozumba,15068,aislamiento,3,1,3,1,,72.7,158.0,30.0,-98.820783,19.05286
+356761,N/D,Camino,N/D,Zumpango,15120,aislamiento,3,1,3,1,,100.0,47.5,30.0,-99.053109,19.794484
+462598,N/D,Camino,N/D,Valle de Chalco Solidaridad,15122,aislamiento,3,1,3,1,,100.0,646.4,10.0,-98.964994,19.256303
+643013,N/D,Camino,N/D,Temamatla,15083,aislamiento,3,1,3,1,,100.0,346.6,30.0,-98.885665,19.209909
+326316,N/D,Camino,N/D,Luvianos,15123,30.5,3,1,0,0,30.5,100.0,30.7,30.0,-100.582197,18.859
+326317,N/D,Camino,N/D,Luvianos,15123,30.5,3,1,0,0,30.5,100.0,16.3,30.0,-100.582177,18.85921
+181280,N/D,Camino,N/D,Chapa de Mota,15026,aislamiento,2,1,2,1,,92.3,186.7,30.0,-99.490038,19.761508
+525419,N/D,Camino,N/D,Atlautla,15015,aislamiento,2,1,2,1,,77.8,264.4,30.0,-98.777276,18.998979
+327730,N/D,Camino,N/D,Luvianos,15123,aislamiento,2,1,2,1,,84.2,844.6,30.0,-100.422613,18.917408
+509131,N/D,Camino,N/D,Chalco,15025,aislamiento,1,1,1,1,,100.0,129.6,30.0,-98.909535,19.238583
+462676,N/D,Camino,N/D,Chalco,15025,aislamiento,1,1,1,1,,100.0,52.8,30.0,-98.909008,19.238188
+595197,N/D,Camino,N/D,Nextlalpan,15059,aislamiento,1,1,1,1,,100.0,31.3,30.0,-99.052891,19.708629
+316444,N/D,Camino,N/D,Tlatlaya,15105,aislamiento,1,1,1,1,,100.0,32.3,10.0,-100.271218,18.501223
+345556,N/D,Camino,N/D,Otumba,15065,aislamiento,1,1,1,1,,100.0,66.8,30.0,-98.795342,19.686538

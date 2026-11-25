@@ -1,0 +1,3 @@
+﻿capa,intervalo_m,tramos_capa,tramos_excluidos,tramos_muestreados,longitud_muestreada_km,puntos_muestreo,espaciado_medio_m,tramos_con_un_punto
+10km_red_vial_buffer,15.0,422679,13015,408611,59443.839,4166276,14.268,30696
+20km_red_vial_buffer,15.0,557559,18421,538404,75729.032,5316516,14.244,39792
