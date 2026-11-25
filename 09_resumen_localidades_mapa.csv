@@ -1,0 +1,4 @@
+﻿capa,categoria,localidades,habitantes,localidades_retraso_cero
+localidades_sin_cambio,Sin cambio (retraso < 15 min),1744,937296,586
+localidades_retraso_15min,Retraso ≥ 15 min,1301,605136,0
+localidades_aisladas,Aislada (sin ruta al hospital),1170,595991,0

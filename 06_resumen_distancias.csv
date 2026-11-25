@@ -1,0 +1,5 @@
+﻿hospital,localidades,n,habitantes,sin_ruta,min_km,max_km,media_km,mediana_km,media_ponderada_hab_km,mediana_ponderada_hab_km
+Público,Todas,4894,16992418,0,0.0,63.2819,13.1176,10.7369,4.9779,3.2667
+Público,"Rurales (< 2,500 hab.)",4215,2138423,0,0.0,63.2819,14.0741,11.7569,12.0006,10.4007
+Privado,Todas,4894,16992418,0,0.009,88.5744,18.8425,12.0271,4.1342,1.165
+Privado,"Rurales (< 2,500 hab.)",4215,2138423,0,0.116,88.5744,20.7493,14.1482,15.7541,11.052

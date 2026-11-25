@@ -1,0 +1,9 @@
+﻿escenario,hospital,grupo,localidades,habitantes,porcentaje
+Base,Público,0-15 min,2010,1196968,55.9743
+Base,Público,15-30 min,1701,844574,39.4952
+Base,Público,> 30 min,504,96881,4.5305
+Base,Público,sin acceso,0,0,0.0
+Base,Privado,0-15 min,1813,1105860,51.7138
+Base,Privado,15-30 min,1182,636774,29.7777
+Base,Privado,> 30 min,1220,395789,18.5085
+Base,Privado,sin acceso,0,0,0.0
